@@ -74,7 +74,7 @@ Then, how about calculating the memory `offset` of the `tasks`( or `tasks.next` 
 
 The following example demonstrates the calculating offset of any field relative to its structure.
 ```c
-// offset.c
+/// offset.c
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -98,12 +98,15 @@ int main() {
     
     printf("task_t.pid offset    %li\n", off_pid);
     printf("task_t.tasks offset  %li\n", off_tasks);
+
+    return 0;
+}
 ```
 ```bash
 $ gcc -o offset offset.c
 $ ./offset              
   task_t.pid offset    0
-  task_t.tasks offset  16
+  task_t.tasks offset  8
 ```
 
 The following example illustrate how address are assigned to the field.

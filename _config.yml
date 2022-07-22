@@ -18,11 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Cognitive Perception
+title: tail -f curiosity and experience
 email: hrishishinde.p@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Kubernetes/OpenShift and containers, Distributed systems, Cloud computing, Unix/Linux systems, 
-  Data structures and algorithms.
+  Containers and Kubernetes/OpenShift, Distributed systems, Unix/Linux systems, Data structures and algorithms and Cloud computing.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hrishi.dev" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  hrishin

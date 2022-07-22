@@ -4,6 +4,5 @@ title: $ whoami
 permalink: /about/
 ---
 
-I'm a software engineer who is interested in infrastructure and platform engineering(Kubernetes/OpenShift, Containers, AWS/GCP), operations(SRE) and automation,
-cloud/distributed computing, Linux OS and general computer science while holding hands in programming/scripting. Holds special interest in designing and building
-orchestration systems to automate complex workflows.
+A software engineer who is passionate about solving infrastructure and platform engineering problems using distributed systems. 
+Keen on building sustainable solutions and systems with great user experience as its scales to any degree.
